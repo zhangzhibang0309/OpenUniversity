@@ -1,0 +1,23 @@
+{
+  "name": "vue-neu",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.9",
+    "@nutui/nutui": "^3.2.2",
+    "@nutui/nutui-taro": "^3.2.2",
+    "echarts": "^5.3.3",
+    "element-plus": "^2.2.15",
+    "fancy-components": "^0.0.23",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.1",
+    "naive-ui": "^2.33.2",
+    "vite": "^3.0.4"
+  }
+}
